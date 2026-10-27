@@ -1,0 +1,11 @@
+dist/
+lib/
+*.dll
+*.pdb
+*.log
+*.zip
+.vs/
+bin/
+obj/
+__pycache__/
+docs/architecture-research.md
